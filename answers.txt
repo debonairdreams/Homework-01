@@ -1,0 +1,3 @@
+MD5 (/etc/passwd) = 2b69b0f4b272e19edc040f93d29bc4c3
+fb30a943d97e788b7b44f1ffb231cf2d
+SunOS unix1.its.albany.edu 5.10 Generic_150400-57 sun4u sparc SUNW,Sun-Fire-V440
